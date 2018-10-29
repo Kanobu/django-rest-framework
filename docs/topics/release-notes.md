@@ -39,6 +39,9 @@ You can determine your currently installed version using `pip freeze`:
 ---
 
 ## 3.6.x series
+### 3.6.5
+**Date**: [29st October 2018]
+* Backported #5552 pull request. [#5552][gh5552]
 
 ### 3.6.4
 
